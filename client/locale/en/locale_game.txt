@@ -1,0 +1,18 @@
+MINI_GAME_BNW_DONATE_QUESTION1	Do you want to donate?
+MINI_GAME_BNW_DONATE_QUESTION2	Each donation costs 15 Seer Coins.
+MINI_GAME_BNW_FONT	Arial:15
+MINI_GAME_GIVEUP_QUESTION	Are you sure you want to abandon the game? You will not receive any reward.
+MINI_GAME_BNW_GAME_RESULT_DRAW	Draw! You've earned %d Seer Coin(s).
+MINI_GAME_BNW_GAME_RESULT_LOSE	Defeat! You've earned %d Seer Coin(s).
+MINI_GAME_BNW_GAME_RESULT_SCORE	Score: %d
+MINI_GAME_BNW_GAME_RESULT_WIN	Victory! You've earned %d Seer Coin(s).
+MINI_GAME_BNW_NOT_ENOUGH_INVEN	There isn't enough space in your inventory.
+MINI_GAME_BNW_NOT_ENOUGH_ITEM	You require a Tarot Set to play.
+MINI_GAME_BNW_NOT_ENOUGH_YANG	You don't have enough Yang to start the game.
+MINI_GAME_BNW_RESULT_DRAW1	Your number is the same.
+MINI_GAME_BNW_RESULT_DRAW2	Draw!
+MINI_GAME_BNW_RESULT_LOSE1	Your number is smaller.
+MINI_GAME_BNW_RESULT_LOSE2	Defeat!
+MINI_GAME_BNW_RESULT_WIN1	Your number is larger.
+MINI_GAME_BNW_RESULT_WIN2	Victory!
+MINI_GAME_BNW_START_QUESTION	You require a Tarot Set and 30,000 Yang to play. Do you want to join the Duel of the Seers?
