@@ -61,7 +61,7 @@ bool CPythonNetworkStream::SendMinigameBnwFinished()
 
 bool CPythonNetworkStream::RecvMinigameBnw()
 {
-	TPacketGCCatchKing p;
+	TPacketCGMinigameBnw p;
 	Tracef("RecvMinigameBnw\n");
 	if (!Recv(sizeof(p), &p))
 		return false;
